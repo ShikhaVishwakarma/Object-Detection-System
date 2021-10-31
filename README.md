@@ -1,1 +1,1 @@
-# Object-Recommender-System
+# Product-Recommender-System
